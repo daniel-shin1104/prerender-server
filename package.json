@@ -17,5 +17,8 @@
   },
   "bin": {
     "prerender": "server.js"
+  },
+  "scripts": {
+    "restart": "bash ./daniel/bin/restart.sh"
   }
 }

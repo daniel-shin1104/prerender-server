@@ -18,10 +18,7 @@ export HEROKU_APP_NAME=<your deployed heroku app name>
 export HEROKU_EMAIL=<the email that your app name is under>
 export HEROKU_API_TOKEN=<the token from the command $ heroku auth:token
 
-
-
 */
-
 
 var https = require('https');
 
